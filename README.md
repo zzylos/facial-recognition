@@ -6,3 +6,4 @@ cd facial-recognition
 pip install -r requirements.txt
 python main.py
 ```
+That's it.
